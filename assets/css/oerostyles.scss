@@ -249,9 +249,9 @@ hr { height: 2px; border: none; background: $crazul; margin:3px 0;}
         animation-iteration-count: infinite; animation-timing-function: linear;
     }
     .text-uppercase{text-transform: uppercase; color:$crazul; }
-    h2{font-size:30px; font-weight:bold; margin:12px 0; 
-      background: linear-gradient(to bottom right, $crceleste_2, $crazulos);
+    h2{font-size:30px; font-weight:bold; margin:12px 0; background: linear-gradient(to bottom right, $crceleste_2, $crazulos);
       -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: transparent; }
+      
     
     h5{font-size:22px; font-family:akashi;  animation-name: cambiarColor2;
       animation-duration: 4s;
@@ -546,7 +546,7 @@ hr { height: 2px; border: none; background: $crazul; margin:3px 0;}
     p{color:$crgris;}
   }
   .owl-carousel{ display:flex;
-    .testi_item{ max-width:500px; display:flex;  width:calc(50% -20px); margin:10px; align-items: center; 
+    .testi_item{ max-width:500px; display:flex;  width:calc(50% - 20px); margin:10px; align-items: center; 
       .img-testimonios{width:120px; height: auto; max-height: 120px;}
       .testi_text{padding-left:10px; }
     }
@@ -660,7 +660,8 @@ hr { height: 2px; border: none; background: $crazul; margin:3px 0;}
 /*------------------- */
 .verblog{padding:40px 0;  
   .titulo{margin-bottom:40px;font-weight:700; background: linear-gradient(to bottom right, $crceleste_2, $crazulos); font-size:30px;
-    -webkit-background-clip: text; -webkit-text-fill-color: transparent; color: $crazul; }
+    -webkit-text-fill-color: transparent; -webkit-background-clip: text;  color: $crazul; } 
+    
   .box-verblog{
     .img-blog{width:auto; max-width:80%; margin:auto; border-radius: 4px; margin-bottom:10px;}
     p{line-height: 1.4; color:$crazulos; margin-bottom:20px; text-align: justify; }

@@ -16,15 +16,18 @@
 	<meta property="og:type" content="Desarrollo y Diseño" />
 	<meta property="og:url" content="https://www.oeroweb.com/" />
 	<meta property="og:image" content="https://www.oeroweb.com/assets/img/logo.png" />
+	
 	<!-- Librerias CSS -->
-	<link rel="stylesheet" href="assets/css/oerostyles.css">
-	<link rel="stylesheet" href="assets/css/owl.carousel.min.css">
-	<link rel="stylesheet" href="assets/css/css/all.min.css">
-
+	<link rel="stylesheet" type="text/css" href="assets/css/animate.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/css/all.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/owl.carousel.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/oerostyles.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/estilos.css">
+	<link rel="stylesheet" href="estilos.css">
+	
 	<!-- CARROUSEL -->
 	<link rel="stylesheet" type="text/css" href="assets/slick/slick.css">
-  <link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css">	
-	<link rel="stylesheet" href="assets/css/animate.css">
+  	<link rel="stylesheet" type="text/css" href="assets/slick/slick-theme.css">	
 	
 
 	<!-- Global site tag (gtag.js) - Google Analytics -->

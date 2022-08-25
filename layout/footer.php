@@ -3,23 +3,19 @@
 		<div class="container-wrap">
 			<div class="item-footer w25">				
 				<div class=" aniview" data-av-animation="fadeInUp">
-					<a href="index.php"> <img src="assets/img/oeroweb-black.png" class="img-footer" alt="Logo OeroWeb"></a>
-					<div class="box-item-footer">
-						<p><a href="mailto:info@oeroweb.com"> <i class="fas fa-envelope"></i> info@oeroweb.com</a> </p>					
-						<p><a href="tel:+051991703456"><i class="fas fa-phone-square"></i> 991 703 456</a> </p>	
-						<p><a href="https://www.facebook.com/oeroweb/"><i class="fab fa-facebook"></i> facebook.com/oeroweb</a></p>	
-					</div>
+					<a href="index.php"> <img src="assets/img/oeroweb-black.png" class="img-footer" alt="Logo OeroWeb"></a>					
 				</div>
 			</div>				
 			<div class="item-footer w25">				
 				<div class=" aniview" data-av-animation="fadeInUp">
-					<h2>Datos</h2>						
+					<h2>Enlaces</h2>						
 					<ul class="">
-						<li><a href="index.php"><i class="fa fa-check"></i> Inicio</a></li>
-						<li><a href="servicios.php"><i class="fa fa-check"></i> Servicios</a></li>
-						<li><a href="sobremi.php"><i class="fa fa-check"></i> Sobre mi</a></li>
-						<li><a href="portafolio.php"><i class="fa fa-check"></i> Portafolio</a></li>
-						<li><a href="contacto.php"><i class="fa fa-check"></i> Contáctanos</a></li>						
+						<li><a href="mailto:contacto@oeroweb.com"> <i class="fas fa-envelope"></i> contacto@oeroweb.com</a> </li>					
+						<li><a href="tel:+051991703456"><i class="fas fa-phone-square"></i> 991 703 456</a> </li>	
+						<li><a href="https://www.facebook.com/oeroweb/"><i class="fab fa-facebook"></i> facebook.com/oeroweb</a></li>	
+						<li><a href="https://github.com/oeroweb"><i class="fab fa-github"></i> github/oeroweb</a></li>	
+						<li><a href="https://app.netlify.com/teams/oeroweb/"><i class="fa fa-globe"></i> netlify/oeroweb</a></li>
+						<!-- <li><a href="index.php"><i class="fa fa-check"></i> Inicio</a></li>-->
 					</ul>									
 				</div>
 			</div>				
@@ -28,16 +24,16 @@
 					<h2>Portafolio</h2>	
 					<div class="container-wrap">										
 						<ul class="w50">						
+							<li><a href="https://corgemisac.com/" target="_blank"><i class="fa fa-check"></i> Corporación de Gestión CORGEMISAC</a></li>
 							<li><a href="https://aprendedordigital.org/" target="_blank"><i class="fa fa-check"></i> Escuela Aprendedor Digital</a></li>
 							<li><a href="https://difra.oeroweb.com/" target="_blank"><i class="fa fa-check"></i> Consultoria MDM Difra</a></li>
 							<li><a href="http://scorcsac.com" target="_blank"><i class="fa fa-check"></i> Consorcio Scorc Sac</a></li>
 							<li><a href="http://zilsys.net.pe" target="_blank"><i class="fa fa-check"></i> Zilsys Sac</a></li>
-							<li><a href="http://logremos21.com/index.php" target="_blank"><i class="fa fa-check"></i> Logremos 21</a></li>
 						</ul>			
 						<ul class="w50">					
-							<li><a href="http://luismonar.com/" target="_blank"><i class="fa fa-check"></i> Consultoría de Empresas Familiares</a></li>
+							<li><a href="http://logremos21.com/index.php" target="_blank"><i class="fa fa-check"></i> Logremos 21</a></li>
+							<!-- <li><a href="http://luismonar.com/" target="_blank"><i class="fa fa-check"></i> Consultoría de Empresas Familiares</a></li> -->
 							<li> <a href="http://i22m.com/index.php" target="_blank"> <i class="fa fa-check"></i> Consulting I22m</a></li>
-							<!-- <li> <a href="http://demotiendavirtual.oeroweb.com/es/" target="_blank"><i class="fa fa-check"></i> Tienda Virtual</a></li> -->
 							<li> <a href="https://cajeforest.com/index.php" target="_blank"><i class="fa fa-check"></i> Cajeforest</a></li>
 							<li> <a href="https://expertia.com.pe/" target="_blank"><i class="fa fa-check"></i> Expertia</a></li>
 							<li><a href="http://inkachallenge.oeroweb.com" target="_blank"><i class="fa fa-check"></i> Inkachallenge</a></li>							
