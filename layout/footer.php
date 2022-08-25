@@ -14,8 +14,7 @@
 						<li><a href="tel:+051991703456"><i class="fas fa-phone-square"></i> 991 703 456</a> </li>	
 						<li><a href="https://www.facebook.com/oeroweb/"><i class="fab fa-facebook"></i> facebook.com/oeroweb</a></li>	
 						<li><a href="https://github.com/oeroweb"><i class="fab fa-github"></i> github/oeroweb</a></li>	
-						<li><a href="https://app.netlify.com/teams/oeroweb/"><i class="fa fa-globe"></i> netlify/oeroweb</a></li>
-						<!-- <li><a href="index.php"><i class="fa fa-check"></i> Inicio</a></li>-->
+						<li><a href="https://app.netlify.com/teams/oeroweb/"><i class="fa fa-globe"></i> netlify/oeroweb</a></li>						
 					</ul>									
 				</div>
 			</div>				
@@ -32,11 +31,11 @@
 						</ul>			
 						<ul class="w50">					
 							<li><a href="http://logremos21.com/index.php" target="_blank"><i class="fa fa-check"></i> Logremos 21</a></li>
-							<!-- <li><a href="http://luismonar.com/" target="_blank"><i class="fa fa-check"></i> Consultoría de Empresas Familiares</a></li> -->
 							<li> <a href="http://i22m.com/index.php" target="_blank"> <i class="fa fa-check"></i> Consulting I22m</a></li>
 							<li> <a href="https://cajeforest.com/index.php" target="_blank"><i class="fa fa-check"></i> Cajeforest</a></li>
 							<li> <a href="https://expertia.com.pe/" target="_blank"><i class="fa fa-check"></i> Expertia</a></li>
 							<li><a href="http://inkachallenge.oeroweb.com" target="_blank"><i class="fa fa-check"></i> Inkachallenge</a></li>							
+							<!-- <li><a href="http://luismonar.com/" target="_blank"><i class="fa fa-check"></i> Consultoría de Empresas Familiares</a></li> -->
 							<!-- <li> <a href="http://ieinavalstellamaris.oeroweb.com" target="_blank"><i class="fa fa-check"></i> Stella Maris</a></li>							 -->
 						</ul>									
 					</div>
